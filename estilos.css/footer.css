@@ -1,0 +1,19 @@
+footer{
+    width: 100%;}
+
+.iconosredes{
+    text-align: center;}
+
+.ajusteicono{
+    display: inline-flex;
+    margin: 50px  35px;}
+
+.textofooter{
+    padding-top: 8px;
+    width: 100%;
+    font-family:serif;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    background-image: linear-gradient(45deg,  rgb(159, 159, 211), rgb(24, 0, 161));
+    height: 100px;}

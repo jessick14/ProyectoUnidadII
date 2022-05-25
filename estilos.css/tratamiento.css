@@ -1,0 +1,100 @@
+body{
+    background-image: linear-gradient( rgb(159, 159, 211), rgb(24, 0, 161));}
+
+
+.barra{
+    background-image: linear-gradient(45deg, rgb(160, 160, 240), rgb(38, 0, 255))!important;
+    font-size: 20px !important;
+    font-family:'serif' !important ;
+    color:black
+}
+
+.titulo1{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium';
+    color: azure;}
+
+ .titulo2{
+    text-align:center;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium';
+    color: azure;}
+
+  .texto1{
+        text-align:left;
+        font-family:'Franklin Gothic Medium';
+        font-size:21px;
+        color: black;
+        width: 100%;
+        height: 450px;    
+        border: none;
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        flex-wrap: wrap; }
+    
+    .texto2{
+        text-align:left;
+        font-family:'Franklin Gothic Medium';
+        font-size:21px;
+        color: black;
+        width: 100%;
+        height: 450px;    
+        border: none;
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        flex-wrap: wrap; }
+    
+     .texto3{
+        text-align:left;
+        font-family:'Franklin Gothic Medium';
+        font-size:21px;
+        color: black;
+        width: 100%;
+        height: 450px;    
+        border: none;
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        flex-wrap: wrap; }
+    
+    .texto4{
+        text-align:left;
+        font-family:'Franklin Gothic Medium';
+        font-size:21px;
+        color: black;
+        width: 100%;
+        height: 450px;    
+        border: none;
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        flex-wrap: wrap; }
+    
+     .texto5{
+        text-align:left;
+        font-family:'Franklin Gothic Medium';
+        font-size:21px;
+        color: black;
+        width: 100%;
+        height: 450px;    
+        border: none;
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        flex-wrap: wrap; }
+
+    .texto6{
+        text-align:left;
+        font-family:'Franklin Gothic Medium';
+        font-size:21px;
+        color: black;
+        width: 100%;
+        height: 450px;    
+        border: none;
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        flex-wrap: wrap; }
